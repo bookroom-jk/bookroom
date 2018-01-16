@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Implementation-Title: funjoke
+Implementation-Version: 1.0
+Built-By: zephyr
+Specification-Vendor: Alibaba
+Specification-Title: funjoke
+Implementation-Vendor-Id: com.cmyzzf
+Build-Jdk: 1.8.0_102
+Specification-Version: 1.0
+Implementation-URL: http://code.alibabatech.com/wiki/display/dubbo/fun
+ joke
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Alibaba
+
