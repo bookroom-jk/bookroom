@@ -6,6 +6,7 @@ import com.alibaba.dubbo.container.Main;
 public class Booter {
 
     public static void main(String[] args) {
+        args = new String[]{"spring","myjetty"};
         Main.main(args);
     }
 

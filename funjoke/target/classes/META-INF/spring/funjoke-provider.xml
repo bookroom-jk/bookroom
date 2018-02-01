@@ -15,7 +15,6 @@
     <dubbo:protocol name="dubbo" port="20880"/>
 
     <!-- 声明需要暴露的服务接口 -->
-    <dubbo:service interface="com.zzfcmy.funjoke.service.IFunJokeTestService" ref="funJokeTestService" owner="zephyr" version="1.0"/>
-
+    <dubbo:service interface="com.cmyzzf.funjoke.service.IFunJokeTestService" ref="funJokeTestService" owner="zephyr" version="1.0"/>
 
 </beans>
